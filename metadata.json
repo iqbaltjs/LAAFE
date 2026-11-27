@@ -1,0 +1,6 @@
+{
+  "name": "Portal Layanan Surat Mahasiswa",
+  "description": "Sistem layanan persuratan akademik mahasiswa dengan integrasi data Excel, formulir daring, unggah dokumen pendukung, dan verifikasi digital staf administrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
